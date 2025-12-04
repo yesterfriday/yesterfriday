@@ -23,11 +23,10 @@ Unity Developer · ML/RL Researcher · Game Designer
 
 ---
 
-### 🤖 Unity ML-Agents – Basketball Shooter (DDPG)
-강화학습을 이용한 농구 슈터 에이전트  
-- DDPG 기반  
-- 학습 환경 직접 구축  
-👉 https://github.com/yesterfriday/ML_Projects (가정)
+# 🚗 Unity 3D Driving Simulator with Logitech Steering Wheel (G29)
+Logitech G29 스티어링 휠을 Unity와 연동하여 실제 차량 조작에 가까운 3D 주행 시뮬레이터를 제작했습니다.  
+핸들 조작, 페달 입력, Force Feedback, 차량 물리 엔진, UI HUD 등을 직접 구현했습니다.
+👉 https://github.com/WhySongSerious/GyoAJung_TrafficQuest
 
 ---
 
