@@ -24,8 +24,8 @@ Unity Developer · ML/RL Researcher · Game Designer
 ---
 
 # 🚗 Unity 3D Driving Simulator with Logitech Steering Wheel (G29)
-Logitech G29 스티어링 휠을 Unity와 연동하여 실제 차량 조작에 가까운 3D 주행 시뮬레이터를 제작했습니다.  
-핸들 조작, 페달 입력, Force Feedback, 차량 물리 엔진, UI HUD 등을 직접 구현했습니다.
+- Logitech G29 스티어링 휠을 Unity와 연동하여 3D 주행 시뮬레이터를 제작  
+- 핸들 조작, 페달 입력, Force Feedback, 차량 물리 엔진, UI HUD 등을 구현
 👉 https://github.com/WhySongSerious/GyoAJung_TrafficQuest
 
 ---
