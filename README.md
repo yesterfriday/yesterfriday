@@ -34,7 +34,7 @@ Unity Developer · ML/RL Researcher · Game Designer
 Bike sharing 데이터 기반 수요 예측  
 - Feature Engineering  
 - Ensemble 모델 비교  
-👉 Kaggle 링크 넣기
+👉 
 
 ---
 
