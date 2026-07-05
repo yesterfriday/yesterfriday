@@ -24,7 +24,7 @@ Unity Developer · ML/RL Researcher · Game Designer
 - OpenWeather API를 활용한 도시 기반 날씨 시스템 구현
 - 날씨에 따라 Fire / Puddle 장애물 생성
 - FSM 기반 방해 NPC 시스템 적용
-- 제한 시간, 목표 점수, 결과 화면을 포함한 게임 루프 구성
+- 제한 시간, 목표 점수, 결과 화면을 포함한 게임 루프 구성  
 👉 https://github.com/12e0hw/MSE_BoxBox
 
 ---
